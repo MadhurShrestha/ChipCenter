@@ -19,7 +19,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Suman Thapa
+ * @author Aayush Shrestha
  */
 public class SiliconCenterInfo extends javax.swing.JFrame {
 
