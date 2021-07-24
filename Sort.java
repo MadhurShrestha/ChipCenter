@@ -7,7 +7,7 @@ package SiliconCenter;
 
 /**
  *
- * @author Suman Thapa
+ * @author Aayush Shrestha
  */
 public class Sort {
     /**
