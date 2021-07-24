@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Suman Thapa
+ * @author Aayush Shrestha
  */
 public class Search {
     
